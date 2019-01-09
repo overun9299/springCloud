@@ -23,6 +23,7 @@
         <module>tensquare_manager</module>
         <module>tensquare_config</module>
         <module>tensquare_gathering</module>
+        <module>tensquare_web</module>
     </modules>
     <packaging>pom</packaging>
 

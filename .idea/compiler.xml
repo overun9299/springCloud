@@ -21,6 +21,7 @@
         <module name="tensquare_sms" />
         <module name="tensquare_spit" />
         <module name="tensquare_user" />
+        <module name="tensquare_web" />
       </profile>
     </annotationProcessing>
   </component>
